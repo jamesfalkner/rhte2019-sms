@@ -1,12 +1,12 @@
 This deme showcases:
 
-* [Red Hat Runtimes](https://www.redhat.com/en/products/runtimes){:target="_blank"} - a collection of cloud-native runtimes like Spring Boot, Node.js, and [Quarkus](https://quarkus.io){:target="_blank"}
-* [Red Hat OpenShift](https://www.openshift.com/){:target="_blank"} - You'll use one or more _projects_ (Kubernetes namespaces) that are your own and are isolated from other workshop students
-* [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview){:target="_blank"} - based on **Eclipse Che**, it's a cloud-based, in-browser IDE (similar to IntelliJ IDEA, VSCode, Eclipse IDE). You've been provisioned your own personal workspace for use with this workshop. You'll write, test, and deploy code from here.
-* [Red Hat AMQ Streams](https://www.redhat.com/en/technologies/jboss-middleware/amq){:target="_blank"} - streaming data platform based on **Apache Kafka**
+* [Red Hat Runtimes](https://www.redhat.com/en/products/runtimes) - a collection of cloud-native runtimes like Spring Boot, Node.js, and [Quarkus](https://quarkus.io)
+* [Red Hat OpenShift](https://www.openshift.com/) - You'll use one or more _projects_ (Kubernetes namespaces) that are your own and are isolated from other workshop students
+* [Red Hat CodeReady Workspaces](https://developers.redhat.com/products/codeready-workspaces/overview) - based on **Eclipse Che**, it's a cloud-based, in-browser IDE (similar to IntelliJ IDEA, VSCode, Eclipse IDE). You've been provisioned your own personal workspace for use with this workshop. You'll write, test, and deploy code from here.
+* [Red Hat AMQ Streams](https://www.redhat.com/en/technologies/jboss-middleware/amq) - streaming data platform based on **Apache Kafka**
 * [Knative](https://knative.dev) - A kubernetes-native way to deploy serverless workloads
 * [Camel-k] - A lightweight integration platform, born on Kubernetes, with serverless superpowers, based on [Apache Camel](http://camel.apache.org)
-* [Prometheus](https://prometheus.io){:target="_blank"} and [Grafana](https://grafana.com){:target="_blank"}, an application monitoring and alerting stack
+* [Prometheus](https://prometheus.io) and [Grafana](https://grafana.com), an application monitoring and alerting stack
 
 How to run
 ========
